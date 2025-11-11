@@ -36,3 +36,12 @@ img {
 button {
   font: inherit;
 }
+
+.header {
+  padding: 92px 49.52px 50px 96px;
+}
+
+.cover {
+  padding: 165px 51.5px 50px 50px;
+}
+
