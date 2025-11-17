@@ -296,12 +296,6 @@
   list-style: none;
 }
 
-.footer_menu-link {
-  color: black;
-  line-height: normal;
-  font-size: 18px;
-}
-
 .footer_menu-link_active {
   text-decoration: none;
 }
